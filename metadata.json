@@ -1,0 +1,5 @@
+{
+  "name": "Reunify photo app",
+  "description": "Upload a childhood photo and a recent adult photo to create a unique, AI-generated 'then and now' image using Gemini.",
+  "requestFramePermissions": []
+}
